@@ -1,6 +1,5 @@
 require 'open3'
 
-
 module Shell
 
 # Runs a subprocess, returns the output and raises the exception if error occurs
